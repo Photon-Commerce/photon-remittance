@@ -15,7 +15,7 @@
     <a href="https://www.photoncommerce.com/platform"><img src="https://img.shields.io/badge/Languages-25%2B-FF6D00?style=for-the-badge" alt="Languages"></a>
   </p>
 
-  [Website](https://www.photoncommerce.com) &nbsp;·&nbsp; [API Docs](https://apidocs.photoncommerce.com) &nbsp;·&nbsp; [Pricing](https://www.photoncommerce.com/pricing) &nbsp;·&nbsp; [Free Trial](https://app.photoncommerce.com) &nbsp;·&nbsp;[Try in Claude](https://claude.ai/directory/connectors/photoncommerce) &nbsp;·&nbsp;[Try in ChatGPT](https://chatgpt.com/plugins/plugin_asdk_app_696685b735588191b9f25f976cfda7b2); 
+  [Website](https://www.photoncommerce.com) &nbsp;·&nbsp; [API Docs](https://apidocs.photoncommerce.com) &nbsp;·&nbsp; [Pricing](https://www.photoncommerce.com/pricing) &nbsp;·&nbsp; [Free Trial](https://app.photoncommerce.com) &nbsp;·&nbsp;[Try in Claude](https://claude.ai/directory/connectors/photoncommerce) &nbsp;·&nbsp;[Try in ChatGPT](https://chatgpt.com/plugins/plugin_asdk_app_696685b735588191b9f25f976cfda7b2) 
 </div>
 
 ---
@@ -88,6 +88,8 @@ print(result["checkNumber"])   # 24415
 |----------|------|---------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [extract_remittance.py](extract_remittance.py) | requests |
 | ![JavaScript](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | [extract_remittance.js](extract_remittance.js) | fetch + form-data |
+| ![cURL](https://img.shields.io/badge/cURL-073551?style=flat-square&logo=curl&logoColor=white) | [extract_remittance.sh](extract_remittance.sh) | curl |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | [extract_remittance.php](extract_remittance.php) | Guzzle |
 
 Every example supports both **local file upload** and **URL-based submission**, plus optional webhook callbacks.
 
