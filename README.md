@@ -90,6 +90,8 @@ print(result["checkNumber"])   # 24415
 | ![JavaScript](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | [extract_remittance.js](extract_remittance.js) | fetch + form-data |
 | ![cURL](https://img.shields.io/badge/cURL-073551?style=flat-square&logo=curl&logoColor=white) | [extract_remittance.sh](extract_remittance.sh) | curl |
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | [extract_remittance.php](extract_remittance.php) | Guzzle |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | [extract_remittance.go](extract_remittance.go) | net/http |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | [extract_remittance.java](extract_remittance.java) | OkHttp |
 
 Every example supports both **local file upload** and **URL-based submission**, plus optional webhook callbacks.
 
